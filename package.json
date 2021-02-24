@@ -1,0 +1,22 @@
+{
+  "name": "testmob",
+  "version": "1.0.0",
+  "description": "testmob",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/guillesha/testmob.git"
+  },
+  "keywords": [
+    "mob"
+  ],
+  "author": "guille",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillesha/testmob/issues"
+  },
+  "homepage": "https://github.com/guillesha/testmob#readme"
+}
